@@ -20,11 +20,5 @@ O **buscaVagas** é um sistema agregador e *web scraper* de oportunidades de emp
 
 ---
 
-## 📌 Próximos Passos (Roadmap)
 
-- [ ] Estruturação inicial do projeto em Go.
-- [ ] Implementação das Goroutines para *scraping* concorrente em portais alvo.
-- [ ] Tratamento e parse das informações das vagas (título, empresa, link, localização).
-- [ ] Criação dos endpoints para consulta das vagas agregadas.
-- [ ] Configuração do ambiente de *deploy* leve.
 
